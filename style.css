@@ -1,0 +1,30 @@
+/* reset css */
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    text-align: center;
+    color: brown;
+}
+
+body{
+    background-color: blanchedalmond;
+}
+
+.topnav {
+    padding: 2rem;
+}
+
+.tabela{
+    margin-top: 1rem;
+    
+}
+
+.dugme{
+    text-align: center;
+    background-color: antiquewhite;
+}
